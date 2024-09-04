@@ -1,5 +1,5 @@
 # About Me:
-Searching for a better readMe generator
+Fullstack Developer
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/logan-travis-854227206) 
