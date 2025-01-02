@@ -23,7 +23,7 @@
 
 ## 🌟 Featured Projects
 
-### [📂 Vanquished Gaming Shop](#)
+### [📂 Vanquished Gaming Shop](https://shop.vanquished.gg)
 **Tech Stack**: Sveltekit | Tailwind | Go
 **Description**: A freelance project where I created a digital shop for a large gaming community.
 **View Shop**: [https://shop.vanquished.gg](#)
