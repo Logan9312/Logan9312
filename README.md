@@ -51,6 +51,10 @@
 - We completed this in a team of 4, competing against other teams for test coverage, performance, and memory safety.
 - Our codebase was over 30k lines long by the end.
 
+### [📂 ScanPal](https://github.com/CMPUT301W24T30/ScanPal)
+**Tech Stack**: Java | Firebase | Android Studio
+**Description**: Event management app developed in a team of 6 for a school project.
+
 ### [📂 Prize Bot V1](https://prize-bot-website-logan-personal-projects.vercel.app/)
 **Tech Stack**: Go | DiscordGo  
 **Description**: A discord bot that handles daily auctions and prize claiming systems, as well as giveaways and other events.
