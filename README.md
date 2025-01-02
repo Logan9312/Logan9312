@@ -1,7 +1,7 @@
 # Logan Travis
 
 ### Full-Stack Developer  
-![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
 
 
 ---
