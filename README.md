@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Technologies & Tools
-**Primary Languages**
+**Primary Languages**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) 
@@ -15,7 +15,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 
-**Familiar With**
+**Familiar With**  
 ![RISC-V](https://img.shields.io/badge/RISC--V-blue) 
 ![ARM](https://img.shields.io/badge/ARM-0091BD?logo=arm&logoColor=white) 
 ![x86 Assembly](https://img.shields.io/badge/x86--Assembly-lightgrey) 
@@ -24,7 +24,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) 
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 
-**Frameworks and Libraries**
+**Frameworks and Libraries**  
 ![Sveltekit](https://img.shields.io/badge/Sveltekit-FF3E00?logo=svelte&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black) 
