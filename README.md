@@ -19,7 +19,7 @@
 **Familiar With**  
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/RISC--V-blue) 
-![ARM](https://img.shields.io/badge/ARM-0091BD?logo=arm&logoColor=white) 
+![ARM](https://img.shields.io/badge/ARM-white) 
 ![x86](https://img.shields.io/badge/x86-lightgrey) 
 ![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white) 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white) 
