@@ -38,8 +38,8 @@
 
 ## 👥 Contact Me
 
-- **Portfolio**: [https://ltravis.ca](#)
-- **LinkedIn**: [https://www.linkedin.com/in/logantravis/](#)
-- **Email**: [conact@ltravis.ca](#)
+- **Portfolio**: [https://ltravis.ca](https://ltravis.ca)
+- **LinkedIn**: [https://www.linkedin.com/in/logantravis/](https://www.linkedin.com/in/logantravis/)
+- **Email**: [conact@ltravis.ca](mailto:conact@ltravis.ca)
 
 
