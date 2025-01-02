@@ -25,7 +25,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) 
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 
-### Frameworks & Libraries
+**Frameworks & Libraries**:  
 ![Sveltekit](https://img.shields.io/badge/Sveltekit-FF3E00?logo=svelte&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black) 
