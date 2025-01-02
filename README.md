@@ -5,7 +5,7 @@
 
 ---
 
-## 🔧 Technologies & Tools
+# 🔧 Technologies & Tools
 **Primary Languages**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🧪 Featured Projects
+# 🧪 Featured Projects
 
 ### [📂 Vanquished Gaming Shop](https://shop.vanquished.gg)
 **Tech Stack**: Sveltekit | Tailwind | Go  
@@ -61,7 +61,7 @@
 **Tech Stack**: React Native | Go
 **Description**: Simple React Native app with a Go backend, created for a hackathon project developed for roomates to organize household jobs.
 
-## 🌟 Contributions
+# 🌟 Contributions
 
 ### 📂 Ark Guardian
 **Tech Stack**: Python | Disnake
@@ -73,7 +73,7 @@
 
 ---
 
-## 👥 Contact Me
+# 👥 Contact Me
 
 - **Portfolio**: [https://ltravis.ca](https://ltravis.ca)
 - **LinkedIn**: [https://www.linkedin.com/in/logantravis/](https://www.linkedin.com/in/logantravis/)
