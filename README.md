@@ -24,14 +24,13 @@
 ## 🌟 Featured Projects
 
 ### [📂 Vanquished Gaming Shop](https://shop.vanquished.gg)
-**Tech Stack**: Sveltekit | Tailwind | Go
-**Description**: A freelance project where I created a digital shop for a large gaming community.
-**View Shop**: [https://shop.vanquished.gg](#)
+**Tech Stack**: Sveltekit | Tailwind | Go  
+**Description**: A freelance project where I created a digital shop for a large gaming community.  
 
-### [📂 Gazprea Compiler](#)
-**Tech Stack**: C++ | ANTLR4 | MLIR/LLVM
-**Description**: Built a compiler for the following language specification: https://cmput415.github.io/415-docs/gazprea/
-**Fun Facts**
+### [📂 Gazprea Compiler](https://cmput415.github.io/415-docs/gazprea/)
+**Tech Stack**: C++ | ANTLR4 | MLIR/LLVM  
+**Description**: Built a compiler for the following language specification: https://cmput415.github.io/415-docs/gazprea/  
+**Fun Facts**  
 - This was the largest and most fun project I have ever done. I estimate I spent about 300 hours writing this codebase.
 - We completed this in a team of 4, competing against other teams for test coverage, performance, and memory safety.
 - Our codebase was over 30k lines long by the end.
