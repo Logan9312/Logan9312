@@ -69,7 +69,7 @@
 **Description**: Simple React Native app with a Go backend, created for a hackathon project developed for roomates to organize household jobs.
 
 ### [📂 Travis Drilling](https://www.travisdrilling.ca/)
-![Tech Stack](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white)  
+![Tech Stack](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) -> ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white)  
 **Description**: A simple landing page for the Travis Drilling business to help with advertising and SEO.
 - Originally built in React but migrated to Sveltekit for easier iteration of future content.
 
