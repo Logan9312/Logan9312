@@ -3,7 +3,6 @@
 ### Full-Stack Developer  
 ![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
 
-
 ---
 
 ## 🔧 Technologies & Tools
@@ -47,6 +46,23 @@
 - This was the largest and most fun project I have ever done. I estimate I spent about 300 hours writing this codebase.
 - We completed this in a team of 4, competing against other teams for test coverage, performance, and memory safety.
 - Our codebase was over 30k lines long by the end.
+
+### 📂 Prize Bot V1
+**Tech Stack**: Go | DiscordGo  
+**Description**: A discord bot that handles daily auctions and prize claiming systems, as well as giveaways and other events.
+- Used by 1200+ discord servers with a combined total of almost 400k members.
+
+### 📂 Prize Bot V2
+**Tech Stack**: Go | DiscordGo  
+**Description**: A complete ground up refactor of the Prize Bot, fixing code structure and migrating infrastructure from AWS to railway.
+
+### 📂 Ark Guardian
+**Tech Stack**: Python | Disnake
+**Description**: A discord bot parsing log files and managing players for the game Ark Survival Evolved. I assisted in refactoring large parts of the codebase and improving the logging efficiency by over 10x, as well as fixing memory leaks.
+
+### [📂 Roommates App](https://github.com/Logan9312/Hacked-2024)
+**Tech Stack**: React Native | Go
+**Description**: Simple React Native app with a Go backend, created for a hackathon project developed for roomates to organize household jobs.
 
 ---
 
