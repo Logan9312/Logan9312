@@ -40,6 +40,6 @@
 
 - **Portfolio**: [https://ltravis.ca](https://ltravis.ca)
 - **LinkedIn**: [https://www.linkedin.com/in/logantravis/](https://www.linkedin.com/in/logantravis/)
-- **Email**: [conact@ltravis.ca](mailto:conact@ltravis.ca)
+- **Email**: [contact@ltravis.ca](mailto:contact@ltravis.ca)
 
 
