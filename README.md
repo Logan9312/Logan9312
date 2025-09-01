@@ -8,37 +8,6 @@
 ---
 
 
-# 🔧 Technologies & Tools
-**Primary Languages**  
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) 
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-  
-**Familiar With**  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![RISC-V](https://img.shields.io/badge/RISC--V-blue) 
-![ARM](https://img.shields.io/badge/ARM-0091BD) 
-![x86](https://img.shields.io/badge/x86-lightgrey) 
-![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white) 
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) 
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-
-**Frameworks and Libraries**  
-![Sveltekit](https://img.shields.io/badge/Sveltekit-FF3E00?logo=svelte&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black) 
-![NextJS](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-
-
----
-
-
 # 🧪 Featured Projects
 
 ### [📂 Vanquished Gaming Shop](https://shop.vanquished.gg)
